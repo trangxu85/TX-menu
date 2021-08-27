@@ -1,0 +1,22 @@
+body {
+  background-color: #F0D9FF;
+  font-family: "Times New Romans", serif; 
+}
+h1 {
+  color: #3D087B;
+  text-shadow: 2px 2px #BFA2DB;
+
+
+
+}
+h3{
+  color: #3D087B;
+}
+hr {
+  background-color: none;
+  border-style:none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 5px;
+  width: 5%;
+}
